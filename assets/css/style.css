@@ -1,0 +1,70 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f8f9fa;
+    margin: 0;
+    padding: 0;
+}
+h1, h2 {
+    color: #333;
+}
+form {
+    margin: 20px;
+}
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f8f9fa;
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2 {
+    color: #333;
+}
+
+.container {
+    padding: 20px;
+}
+
+/* Cards de signos */
+.card {
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    margin-bottom: 20px;
+}
+
+/* Imagens dos signos */
+.signo-img {
+    max-width: 150px;
+    margin: 10px auto;
+    display: block;
+}
+
+/* Classes por elemento */
+.fogo {
+    border-top: 5px solid #e74c3c;
+}
+
+.terra {
+    border-top: 5px solid #27ae60;
+}
+
+.ar {
+    border-top: 5px solid #3498db;
+}
+
+.agua {
+    border-top: 5px solid #9b59b6;
+}
+
+/* Botões */
+.btn-primary {
+    background-color: #3498db;
+    border: none;
+}
+
+.btn-secondary {
+    background-color: #7f8c8d;
+    border: none;
+}
